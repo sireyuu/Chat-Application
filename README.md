@@ -2,6 +2,8 @@
 
 React + socket.io
 
+site: https://chatapp-prod-sireyuu.up.railway.app
+
 ## Available Scripts
 
 In the project directory, you can run:
